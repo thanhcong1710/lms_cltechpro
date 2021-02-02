@@ -1,0 +1,11 @@
+#spec-404 {
+    background: #222222;
+}
+
+#spec-404 .bg {
+    background-image: url('../images/bg-laptop-2.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    opacity: 0.10;
+}

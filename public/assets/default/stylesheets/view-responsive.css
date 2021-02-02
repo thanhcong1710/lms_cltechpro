@@ -1,0 +1,128 @@
+@media only screen and (max-width: 480px) {
+    .row-xs{
+        margin-right: -15px;
+        margin-left: -15px;
+    }
+    .p-r-7-d{padding-right: 0px;}
+    .p-l-7-d{padding-left: 0px;}
+
+    .header-menu-section-sticky-wrapper{
+        display: none;
+    }
+}
+@media only screen and (max-width: 450px) {
+	.no-padding-xs {
+		padding-right: 0 !important;
+		padding-left: 0 !important;
+	}
+}
+
+@media only screen and (max-width: 450px) {
+	.profile-top-background .bottom-section {
+		padding-top: 15px;
+	}
+	.profile-top-background .bottom-section a {
+		margin-right: 0px;
+		width: 140px;
+	}
+	.profile-top-background .bottom-section label.buttons {
+		width: 140px;
+		margin-right: 0;
+		font-size: 0.6em !important;
+	}
+	.profile-avatar-container {}
+	.profile-middle-background img {
+		width: 100px;
+		height: 100px;
+		left: 0;
+	}
+	.profile-middle-background .rate-section {
+		margin-top: 15px !important;
+	}
+	.profile-middle-background .location-section {
+		padding-top: 0;
+	}
+	.profile-middle-background .location-section div:nth-child(1) {
+		margin-bottom: 0;
+		font-size: 1.4em !important;
+	}
+	.profile-middle-background .location-section div:nth-child(2) {
+		font-size: 0.9em !important;
+	}
+	.remove-padding-xs {
+		padding-right: 0;
+		padding-left: 0;
+	}
+	.remove-bg-xs {
+		background: transparent !important;
+	}
+}
+
+@media only screen and (max-width: 450px) {
+	.product-header h2 {
+		text-align: center;
+	}
+	.raty-product-section {
+		text-align: center;
+		margin-top: 10px !important;
+		padding-bottom: 10px !important;
+	}
+	.tab-body .content-box {
+		width: auto !important;
+	}
+	.product-part-container .nav-tabs li a {
+		font-size: 1em !important;
+	}
+}
+
+@media only screen and (max-width: 450px) {
+	.profile-top-background .bottom-section {
+		padding-top: 15px;
+	}
+	.profile-top-background .bottom-section a {
+		margin-right: 0px;
+		width: 140px;
+	}
+	.profile-top-background .bottom-section label.buttons {
+		width: 140px;
+		margin-right: 0;
+		font-size: 0.6em !important;
+	}
+	.profile-avatar-container {}
+	.profile-middle-background img {
+		width: 100px;
+		height: 100px;
+		left: 0;
+	}
+	.profile-middle-background .rate-section {
+		margin-top: 15px !important;
+	}
+	.profile-middle-background .location-section {
+		padding-top: 0;
+	}
+	.profile-middle-background .location-section div:nth-child(1) {
+		margin-bottom: 0;
+		font-size: 1.4em !important;
+	}
+	.profile-middle-background .location-section div:nth-child(2) {
+		font-size: 0.9em !important;
+	}
+	.remove-padding-xs {
+		padding-right: 0;
+		padding-left: 0;
+	}
+}
+
+@media only screen and (max-width: 450px) {
+	.ucp-top-panel .top-panel-box {
+		height: 70px;
+	}
+	.ucp-top-panel .top-panel-box span {
+		right: 10px;
+		font-size: 1.2em;
+	}
+	.no-padding-xs {
+		padding-right: 0;
+		padding-left: 0;
+	}
+}

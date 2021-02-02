@@ -1,0 +1,195 @@
+.h-10 {
+    clear: both;
+    height: 10px;
+}
+
+.h-15 {
+    clear: both;
+    height: 15px;
+}
+
+.h-20 {
+    clear: both;
+    height: 20px;
+}
+
+.h-25 {
+    clear: both;
+    height: 25px;
+}
+
+.h-40 {
+    clear: both;
+    height: 40px;
+}
+
+.h-400 {
+    height: 400px !important;
+}
+
+.ads-boxs-1 {
+    cursor: pointer;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.cu-p {
+    cursor: pointer;
+}
+
+.color-green {
+    color: green
+}
+
+.c-g {
+    color: green
+}
+
+.color-orange {
+    color: orange
+}
+
+.c-o {
+    color: orange
+}
+
+.color-blue {
+    color: blue
+}
+
+.c-b {
+    color: blue
+}
+
+.color-red-i {
+    color: red !important;
+}
+
+.c-r {
+    color: red !important;
+}
+
+.b-g {
+    background-color: grey
+}
+
+.custom-switch-input:checked ~ .custom-switch-description {
+    position: relative;
+    top: 4px;
+}
+
+.recipent {
+    display: none;
+}
+
+.hide-me {
+    display: none;
+}
+
+.w-100 {
+    width: 100%;
+}
+
+.f-w-b {
+    font-weight: bold;
+}
+
+.f-s-1 {
+    font-size: 1em;
+}
+
+.h-a {
+    height: auto;
+}
+
+.w-24 {
+    width: 24px;
+}
+
+.custom-legend {
+    font-size: 1em;
+    padding-bottom: 0;
+    margin-bottom: 5px;
+}
+
+.w-150 {
+    width: 150px;
+}
+
+.m-l-5 {
+    margin-left: 5px;
+}
+
+.z-i-9999 {
+    z-index: 99999
+}
+
+.w-0 {
+    width: 0;
+}
+
+.custom-list {
+    color: red;
+    font-size: 0.7em;
+    padding-top: 3px;
+    display: inline-block;
+}
+
+.custom-switch-description {
+    position: relative;
+    top: 4px;
+}
+
+.amount {
+    font-size: 3em;
+}
+
+.text {
+    color: white !important;
+}
+
+.custom-reply {
+    padding-left: 5px;
+    padding-right: 5px;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.custom-reply-2 {
+    font-size: 12px;
+    padding-right: 5px;
+}
+
+.custom-item {
+    background: #ECEDF0;
+    padding: 12px;
+    border-radius: 4px;
+    border: 1px solid #CCCCCC;
+}
+
+.m-0-0 {
+    margin: 0 auto 0;
+}
+
+.ow-h {
+    overflow: hidden
+}
+
+.m-b-0 {
+    margin-bottom: 0;
+}
+
+#sidebar-wrapper > ul > li:nth-child(22) > a {
+    display: none;
+}
+
+.btn-transparent {
+    background-color: transparent;
+    border: 0 !important;
+}
+
+button {
+    cursor: pointer !important;
+}
