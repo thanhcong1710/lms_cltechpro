@@ -42,8 +42,8 @@
             <div class="col-md-3 col-xs-12 tab-con">
                 <div class="row">
                     <a href="/">
-                        <img src="{{ get_option('site_logo') }}" alt="{{ get_option('site_title') }}" class="logo-icon"/>
-                        <img src="{{ get_option('site_logo_type') }}" alt="{{ get_option('site_title') }}" class="logo-type"/>
+                        <!-- <img src="{{ get_option('site_logo') }}" alt="{{ get_option('site_title') }}" class="logo-icon"/> -->
+                        <img src="{{ get_option('site_logo_type') }}" alt="{{ get_option('site_title') }}" class="logo-type" style="max-width:150px"/>
                     </a>
                 </div>
             </div>
