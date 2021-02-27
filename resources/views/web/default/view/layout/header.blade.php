@@ -43,7 +43,7 @@
                 <div class="row">
                     <a href="/">
                         <!-- <img src="{{ get_option('site_logo') }}" alt="{{ get_option('site_title') }}" class="logo-icon"/> -->
-                        <img src="{{ get_option('site_logo_type') }}" alt="{{ get_option('site_title') }}" class="logo-type" style="max-width:150px"/>
+                        <img src="{{ get_option('site_logo_type') }}" alt="{{ get_option('site_title') }}" class="logo-type" style="max-width:120px"/>
                     </a>
                 </div>
             </div>

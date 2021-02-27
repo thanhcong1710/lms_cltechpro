@@ -416,5 +416,17 @@ Route::group(['prefix' => 'admin'], function () {
             });
             Route::get('/{id}/download', 'AdminController@CertificatesDownload');
         });
+        ######################
+        ####### Zoom Online ##
+        ######################
+        Route::group(['prefix'=>'zoom_online'],function (){
+            Route::any('create','ZoomOnlineController@create');
+            Route::any('join','ZoomOnlineController@join');
+            Route::any('end','ZoomOnlineController@end');
+            Route::any('info','ZoomOnlineController@info');
+            Route::any('get_all','ZoomOnlineController@getAll');
+            Route::any('get_records','ZoomOnlineController@getRecords');
+            Route::any('delete_records','ZoomOnlineController@deleteRecords');
+        });
     });
 });
